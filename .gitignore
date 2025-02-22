@@ -351,10 +351,9 @@ OpenCover/
 
 # Azure Stream Analytics local run output
 ASALocalRun/
-
+package-lock.json
 # MSBuild Binary and Structured Log
 *.binlog
-
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 
