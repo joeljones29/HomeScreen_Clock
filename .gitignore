@@ -64,7 +64,6 @@ artifacts/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
-package-lock.json
 
 # StyleCop
 StyleCopReport.xml
